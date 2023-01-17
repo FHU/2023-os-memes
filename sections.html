@@ -8,7 +8,7 @@ title: Memes By Section
     {% assign sorted_sections = site.sections | sort:"order" %}
     {% for section in sorted_sections %}
     <li>
-        <h2><a href="{{ section.url }}">{{ section.name }}</a></h2>
+        <h2><a href="{{ section.url | relative_url }}">{{ section.name }}</a></h2>
         <p>{{ section.content | markdownify }}</p>
     </li>
     {% endfor %}
