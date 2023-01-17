@@ -13,7 +13,7 @@ layout: default
         <h2><a href="{{ chapter.link }}">{{ chapter.name }}</a></h2>
         <ul>
             {% for meme in chapter_memes %}
-            <li><a href="{{ meme.url | relative_url }}"><img src={{ site.imagesurl }}{{ meme.image }}></a></li>
+            <li><a href="{{ meme.url | relative_url }}"><img src={{ site.imagesurl | relative_url }}{{ meme.image }}></a></li>
             {% endfor %}
         </ul>
     </li>
