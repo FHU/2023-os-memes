@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+
+{{ content }}
+
+<ul>
+    {% assign section_chapters = site.chapters | where: "ostep_section", page.name %}
+    {% for chapter in section_chapters %}
+    {% assign chapter_memes = site.posts | where: "chapter", chapter.number %}
+    <li>
+        <h2><a href="{{ chapter.link }}">{{ chapter.name }}</a></h2>
+        <ul>
+            {% for meme in chapter_memes %}
+            <li><a href="{{ meme.url }}"><img src={{ site.imagesurl }}{{ meme.image }}></a></li>
+            {% endfor %}
+        </ul>
+    </li>
+    {% endfor %}
+</ul>

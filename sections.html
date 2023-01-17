@@ -1,0 +1,15 @@
+---
+layout: default
+title: Memes By Section
+---
+<h1>Book Sections</h1>
+
+<ul>
+    {% assign sorted_sections = site.sections | sort:"order" %}
+    {% for section in sorted_sections %}
+    <li>
+        <h2><a href="{{ section.url }}">{{ section.name }}</a></h2>
+        <p>{{ section.content | markdownify }}</p>
+    </li>
+    {% endfor %}
+</ul>

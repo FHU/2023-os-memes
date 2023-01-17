@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+<h2>{{ page.position }}</h2>
+
+{{ content }}
+
+<div class="image-gallery">
+    {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+    {% for post in filtered_posts %}
+    <div class="box"><a href="{{ post.url }}">
+            <img src="{{ site.thumbsurl }}{{ post.image }} " alt="{{ post.name }} meme" class="img-gallery" />
+        </a></div>
+    {% endfor %}
+</div>
