@@ -1,6 +1,6 @@
 ---
 title:  Mini Computers vs First PC Uno
-author: Cameron Pierce
+author: camerondpierce
 image: cp_minicomputeruno.png
 chapter: Chapter 1
 ---
