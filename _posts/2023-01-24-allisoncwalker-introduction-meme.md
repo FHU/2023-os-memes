@@ -1,6 +1,6 @@
 ---
 title: "DRAM Storage" 
-author: Allison Walker
+author: Alli
 image: DRAMStorage.jpg
 chapter: CH 2
 ---
