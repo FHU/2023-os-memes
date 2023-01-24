@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  Same Picture
+author: Jaydon
+image: pam.jpeg
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The meme is rather self-explanatory. The terms "virtual machine" and "operating system" are interchangable
