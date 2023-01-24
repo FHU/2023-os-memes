@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  Its a Resource Manager
+author: danny
+image: Nerd-manager.jpg
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+According to the reading, an OS is also known as a resource manager.
