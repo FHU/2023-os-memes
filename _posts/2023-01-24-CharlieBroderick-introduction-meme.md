@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  minicomputer vs PC's
+author: charlie.md
+image: minicomputer vs PC's.jpg
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+PC's replaced minicomputers because they were faster, mobile, and could run the programs better.
