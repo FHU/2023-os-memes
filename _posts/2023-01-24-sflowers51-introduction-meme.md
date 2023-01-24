@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title: Abstraction Meme  
+author: Sam Flowers
+image: They Don't Know
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Abstraction is so important to computer science and we forget about it sometime.

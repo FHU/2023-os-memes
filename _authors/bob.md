@@ -1,6 +1,6 @@
 ---
-short_name: Sam
-name: Samuel Flowers
-position: student
+short_name: bob
+name: Mr Nichols
+position: Instructor
 ---
-I run the show.
+Mr Nichols runs this show. 
