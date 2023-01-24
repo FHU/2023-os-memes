@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  Gru Inital Value
+author: gavin
+image: Gru-Intro-Meme.jpg
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Gru doesnt get the same final value as the inital value.
