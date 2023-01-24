@@ -4,4 +4,4 @@ author: Cameron Pierce
 image: cp_minicomputeruno.png
 chapter: Chapter 1
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Whenever the first Personal Computers came out, there were a few issues (the book mentions memory issues) that were not learned from minicomputers.
