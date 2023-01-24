@@ -1,7 +1,7 @@
 ---
 title: "DRAM Storage" 
 author: Alli
-image: DRAMStorage.jpg
+image: DRAMStorage.png
 chapter: CH 2
 ---
 When you read chapter 2, It has a part that talks about how DRAM(Dynamic RAM) stores data. 
