@@ -1,6 +1,6 @@
 ---
 title:  Gru Inital Value
-author: gavin
+author: gavin.md
 image: Gru-Intro-Meme.jpg
 chapter: 2
 ---
