@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  OS vs Resource Manager
+author: Addison
+image: MEME1.png
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+In chapter 2, the OS was referenced as a Resource Manager.
