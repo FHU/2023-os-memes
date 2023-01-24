@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  OSIntro
+author: kel
+image: OS_Intro.jpg
+chapter: 02
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+A lot of this chapter was spent talking about the different names for the OS and how it plays into its functions.
