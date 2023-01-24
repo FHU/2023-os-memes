@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  Mac
+author: tbone
+image: Mac.jpg
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+This meme shows how Apple created the Mac operating system all the way from UNIX.
