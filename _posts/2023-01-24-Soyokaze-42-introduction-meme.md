@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title: Concurrency Wreck
+author: bob
+image: concurrency-wreck.jpg
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The cyclists are like threads of a muti-threaded application with concurrency bugs discussed at the bottom of page 8.
