@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  DOS vs. Unix
+author: lisa
+image: dosvsunix.jpg
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+DOS did not learn from the early mistakes of Unix and Linux. Unix seems to be the OS choice, especially in the early years. page 15-16.
