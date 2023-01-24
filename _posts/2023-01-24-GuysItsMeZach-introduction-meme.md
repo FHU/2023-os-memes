@@ -1,7 +1,7 @@
 ---
 title: No virtualization
 author: Zac
-image: 
+image: NoVirtualization.jpeg
 chapter: 2
 ---
 Update the above
