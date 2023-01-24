@@ -1,6 +1,6 @@
 ---
 title:  I am requesting memory
-author: Travis R.
+author: Trav
 image: introductionMeme.jpg
 chapter: 2
 ---
