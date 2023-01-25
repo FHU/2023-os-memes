@@ -1,6 +1,6 @@
 ---
 title:  
-author: 
+author:
 image: 
 chapter: 
 ---
