@@ -13,11 +13,11 @@ Process:
 1. Everyone in class, read the chapter.
 
 2. Make a meme (https://www.wired.com/story/6-easy-ways-make-memes/)
-  * One team member will be assigned a draft pull request (PR) in GitHub. That person is responsible for getting the files correctly, but may not commit to the associated git branch.
-  * A teammate must create the meme and commit the image to the team’s branch in the images directory.
-  * Another teammate will edit the markdown file that is included in the git branch associated with the PR. Update the frontmatter and the meme description and commit it to the branch. Be sure to include justification for why this meme fits with the material in the chapter with a reference.
-  * Once the files are in place, the PR assignee will mark the PR **ready for review**.
-  * If there are issues, the instructor will comment in the PR what needs to happen to resolve the issue. This can be any number ot things. A re-used joke, bad grammar, poor description, meme that doesn't fit with our reading content, etc.
+    1. One team member will be assigned a draft pull request (PR) in GitHub. That person is responsible for getting the files correctly, but may not commit to the associated git branch.
+    2. A teammate must create the meme and commit the image to the team’s branch in the images directory.
+    3. Another teammate will edit the markdown file that is included in the git branch associated with the PR. Update the frontmatter and the meme description and commit it to the branch. Be sure to include justification for why this meme fits with the material in the chapter with a reference.
+3. Once the files have been verified as correct, the PR assignee will mark the PR **ready for review**.
+4. If there are issues, the instructor will comment in the PR what needs to happen to resolve the issue. This can be any number ot things. A re-used joke, bad grammar, poor description, meme that doesn't fit with our reading content, etc.
 
 Notes:
 1. Meme jokes may not be repeated. If there are duplicate submissions or too similar memes, the team to first mark theirs read for review will take priority.
