@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  Von Neumann Model of computing
+author: Nate
+image: Von-neumann-model.jpg
+chapter: 02
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+This meme is relevant because it gives a brief and simple description of what operating systems do and what we will be talking about this semester.

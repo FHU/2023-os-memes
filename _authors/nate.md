@@ -1,3 +1,4 @@
+---
 short_name: Nate
 name: Nathan Lewis
 position: Student
