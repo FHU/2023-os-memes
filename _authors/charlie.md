@@ -1,5 +1,5 @@
 ---
 short_name: charlie
-name: charlie broderick
+name: charliebroderick
 position: student
 ---

@@ -1,7 +1,7 @@
 ---
-title:  minicomputer vs PC's
+title:  minicomputervsPC's
 author: charlie.md
-image: minicomputer vs PC's.jpg
+image: minicomputervsPC's.jpg
 chapter: 2
 ---
 PC's replaced minicomputers because they were faster, mobile, and could run the programs better.
