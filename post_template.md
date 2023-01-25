@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
+title:  Distracted CPU
+author: Shelton Blackwell
 image: 
-chapter: 
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The CPUs used to run one program as at time until completion. Now the CPUs uses multiprogramming which runs a program and then starts one after another simultaneously.
