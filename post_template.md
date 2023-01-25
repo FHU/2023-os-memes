@@ -1,7 +1,6 @@
 ---
-title:  Distracted CPU
-author: Shelton Blackwell
-image: distracted cpu image
-chapter: 2
+title:  
+author:
+image: 
+chapter: 
 ---
-The CPUs used to run one program as at time until completion. Now the CPUs uses multiprogramming which runs a program and then starts one after another simultaneously.
