@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  Zombie Process
+author: tbone.md
+image: spongebob_meme_processors.jpg
+chapter: 4
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The meme shows the gist of how a zombie process works
