@@ -1,7 +1,7 @@
 ---
-title:  Zombie Process
+title:  blocked and running processes
 author: tbone
-image: spongebob_meme_processors.jpg
+image: spongebob_processor.jpg
 chapter: 4
 ---
-The meme shows the gist of how a zombie process works
+The meme shows the gist of how a blocked process is not in the state to run on a processor, with the running processes.
