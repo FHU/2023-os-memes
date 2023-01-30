@@ -1,6 +1,6 @@
 ---
 title: Process States 
-author: 
+author: lt
 image: OSCh4Meme.jpg 
 chapter: 4
 ---
