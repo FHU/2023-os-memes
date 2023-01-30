@@ -1,6 +1,6 @@
 ---
 title:  Zombie Process
-author: tbone.md
+author: tbone
 image: spongebob_meme_processors.jpg
 chapter: 4
 ---
