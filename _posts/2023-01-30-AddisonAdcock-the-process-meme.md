@@ -1,6 +1,6 @@
 ---
 title: Simple vs. Modern Operating Systems
-author: 
+author: Addison
 image: chp_4_doges_meme.jpg
 chapter: 4
 ---
