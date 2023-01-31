@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  chapter 4 meme
+author: charlie
+image: chapter_4_meme.jpg
+chapter: 4
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The base of the meme is that the operating system has to tell the program to do something
