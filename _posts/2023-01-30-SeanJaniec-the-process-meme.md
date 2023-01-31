@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  Zombie_Meme
+author: Tristan Hogan
+image: zombie-meme.png
+chapter: 4
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+When the child is in its final state, but has not yet been cleaned up, it is known as the zombie state. This can be helpful for the parent when examining the return code in order to determine if the process was carried out successfully.
