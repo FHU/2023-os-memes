@@ -1,6 +1,6 @@
 ---
 title:  minicomputervsPCs
-author: charlie.md
+author: charlie
 image: minicomputervsPCs.jpg
 chapter: 2
 ---
