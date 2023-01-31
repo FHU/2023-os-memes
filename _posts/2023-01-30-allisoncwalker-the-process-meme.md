@@ -1,6 +1,6 @@
 ---
 title: Virtualized CPU
-author: Women
+author: Alli
 image: virtualized-cpu.png
 chapter: 4
 ---
