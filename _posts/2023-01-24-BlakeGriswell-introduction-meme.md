@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  Left Exit 12 Off Ramp
+author: Blake Griswell
+image: Left_Exit_12_Off_Ramp.jpg
+chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The OS to run a program first it needs to load the code into memory eagerly then proceed with the program residing on the disk.
