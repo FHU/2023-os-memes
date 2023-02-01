@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Power (Kernel) Mode
+author: nate
+image: OSCh6Meme5.jpeg
+chapter: 6
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+When user mode calls the trap, that promotes it into kernel mode where it can perform all operations.
