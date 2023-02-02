@@ -1,6 +1,6 @@
 ---
 short_name: danny
 name: Danny Rich
-position: Potato Delivery Man
+position: Student
 ---
-I am responsible for all the potato related issues in the class
+I am trying my best, unfortunately
