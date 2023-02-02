@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  The OS
+author: tbone.md
+image: OS_button.jpg
+chapter: 6
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The OS trusts the responsibilities of the system according to the cooperative approach, but the user has the option to reboot the system.
