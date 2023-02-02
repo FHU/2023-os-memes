@@ -1,7 +1,8 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Misbehaving Process
+author: travis
+image: misbehaving.jpg
+chapter: 6
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+footnote of page 8
+In modern systems, the way the OS tries to handle such malfeasance is to simply terminate the offender.
