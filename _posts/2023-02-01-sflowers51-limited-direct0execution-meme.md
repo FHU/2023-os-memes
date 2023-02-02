@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Direct Execution Be Like
+author: Addison
+image: images/Direct Execution.jpg
+chapter: Chapter 6
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Direct execution is fast.
