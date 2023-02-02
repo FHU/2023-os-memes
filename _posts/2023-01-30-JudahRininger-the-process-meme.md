@@ -1,6 +1,6 @@
 ---
 title:  Changing Processes
-author: Travis Raymer
+author: Judah
 image: OSProcessmeme.jpg
 chapter: 4
 ---
