@@ -1,6 +1,6 @@
 ---
 title:  Zombie_Meme
-author: Tristan Hogan
+author: Tristan
 image: zombie-meme.png
 chapter: 4
 ---
