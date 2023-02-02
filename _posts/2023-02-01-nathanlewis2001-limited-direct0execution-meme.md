@@ -1,7 +1,7 @@
 ---
 title:  Power (Kernel) Mode
 author: nate
-image: OSCh6Meme5.jpeg
+image: OSCh6Meme1.jpg
 chapter: 6
 ---
-When user mode calls the trap, that promotes it into kernel mode where it can perform all operations.
+Once a trap is executed, the return-from-trap abides its time, knowing that it may eventually be used.
