@@ -1,7 +1,7 @@
 ---
-title:  
-author:
+title:  User Mode 
+author: danny
 image: 
-chapter: 
+chapter: Chapter 6
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Whenever a process is limited by user mode the ability to access parts of the machine is limited. In this meme, the I/O access is declined.
