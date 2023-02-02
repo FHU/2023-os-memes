@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Convoy Effect
+author: kel
+image: Scheduler-intro-meme.jpg
+chapter: 7
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The convoy effect occurs when a long job is run in front of a short job in a non-preemptive mechanism, making the turnaround time astronomical.
