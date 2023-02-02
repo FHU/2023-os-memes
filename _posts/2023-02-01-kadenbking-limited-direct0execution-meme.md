@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  KernelvsUser
+author: lisa
+image: KernelvsUserMeme.jpg
+chapter: 6
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+This meme shows the difference in capabilites and strength between kernel and user. Kernel mode has no limits and is therefore able to do more than its counterpart, user mode, which has limits and restrictions on what it is able to do
