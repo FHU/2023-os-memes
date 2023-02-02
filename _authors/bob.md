@@ -1,6 +1,6 @@
 ---
-short_name: T
-name: Tristan Hogan
-position: Student
+short_name: bob
+name: Mr Nichols
+position: Instructor
 ---
-Tristan Hogan is meme machine.
+Mr Nichols runs this show. 
