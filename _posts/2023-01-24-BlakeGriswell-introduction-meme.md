@@ -1,6 +1,6 @@
 ---
 title:  Left Exit 12 Off Ramp
-author: Blake Griswell
+author: Griz
 image: Left_Exit_12_Off_Ramp.jpg
 chapter: 2
 ---
