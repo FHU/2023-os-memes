@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Keanu SJF
+author: danny
+image: sjf_reeves.png
+chapter: Chapter 7
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+SJF, or Shortest Job First, is a scheduling discipline that runs the shortest job first, and then the next shortest and so on. Jobs are represented by Keanu Reeves in this meme
