@@ -4,4 +4,4 @@ author: Caleb.md
 image: virtualization.jpg
 chapter: 2
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The Machine is running the illusion that there are multiple cpu's being ran at once, when in reality it is just using virtualization.
