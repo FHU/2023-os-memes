@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  FIFO ticks
+author: travis
+image: FIFO ticks.jpg
+chapter:  chapter 7 page 3
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+First in first out takes in what ever job it gets first and executes it. This means that if it has a large job it will do it first if it comes in first and will not switch to a shorter job or preempt it and do a portion before switching to a shorter job.
