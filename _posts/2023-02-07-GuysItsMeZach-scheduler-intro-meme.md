@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Einstein
+author:Sean
+image: einstein.png
+chapter: 7
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Turnaround time is a metric that used to measure how long it takes for the job to be completed once it has arrived.
