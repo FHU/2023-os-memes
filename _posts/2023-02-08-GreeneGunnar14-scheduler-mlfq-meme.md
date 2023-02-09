@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  New Job
+author: danny
+image: my_turn.png
+chapter: 8
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Rule 3 states that 'When a job enters the system, it is placed at the highest priority (the topmost queue)'. Here, Gru is the new job, so he is put at the top of the queue, henceforth making it 'his turn'.
