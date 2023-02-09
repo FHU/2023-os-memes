@@ -1,7 +1,7 @@
 ---
-title:  chapter 4 meme
+title:  chapter 8 meme
 author: charlie
-image: chapter_4_meme.jpg
-chapter: 4
+image: preciousmeme.jpg
+chapter: 8
 ---
-The base of the meme is that the operating system has to tell the program to do something
+When there are to many long interactive jobs running they cannot get enough cpu time and will "starve"
