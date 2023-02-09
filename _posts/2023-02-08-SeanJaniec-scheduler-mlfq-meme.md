@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Dr. Facilier Meme
+author:Tristan Hogan
+image: Dr.Facilier_Meme.png
+chapter: Chp. 8
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+One of the greatest dilemmas with the S period of rule number 5 is deciding what it should be set to. Ousterhout described as a voo-doo constant because of how difficult it was to set the value correctly.
