@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Drake's job priorities 
+author: tbone
+image: Rule#1.jpg
+chapter: 8
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Job A arrived first therefore it should have a higher priority than job B. Job A should run before the second job based on the priority levels, but after Job A finishes then job B gets the chance to run. 
