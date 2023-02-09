@@ -1,6 +1,6 @@
 ---
 title:  Dr. Facilier Meme
-author:Tristan Hogan
+author:Tristan
 image: Dr.Facilier_Meme.png
 chapter: Chp. 8
 ---
