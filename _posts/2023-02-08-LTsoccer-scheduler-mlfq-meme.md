@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Voodoo Constants
+author: lt
+image: Voodoo Constants.jpg
+chapter: 8
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Jon Ousterhout was against Voo-Doo Constants, and said to avoid them at all costs. Therefore, this meme shows that Ousterhout and Voo-Doo Constants do not get along with each other.
