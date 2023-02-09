@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  chapter 8 meme
+author: charlie
+image: preciousmeme.jpg
+chapter: 8
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+When there are to many long interactive jobs running they cannot get enough cpu time and will "starve"
