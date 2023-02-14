@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Ive got a golden ticket
+author: travis
+image: charlie.png
+chapter: 9
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+This meme is relavent because in chapter 9 pages 1 and 2 it discusses how the lottery system works and how a "winning ticket" is the randomized selecting factor for which process runs.
