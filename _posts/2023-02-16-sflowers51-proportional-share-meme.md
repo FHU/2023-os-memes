@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Low Level Processes Runnning
+author: Addison Adcock
+image: Golden_Ticket.jpg
+chapter: 9
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+There is less of a chance of a process with less tickets to run because the lottery randomly draws a ticket. The more tickets you have the better chance of winning the lottery. This meme is about a process with a few tickets winning the lottery.
