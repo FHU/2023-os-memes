@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: SharingHulk
+author: gavin
+image: HulkShare.png
+chapter: 9
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Instead of scheduling based on response time the fair-share scheduler tries to guarantee a dedicated amount of cpu time for each job.
