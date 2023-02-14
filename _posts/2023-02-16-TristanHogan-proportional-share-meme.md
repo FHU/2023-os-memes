@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: Tools
+author: Tristan
+image: MickeyM.png
+chapter: 9
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Lottery scheduling provides a number of mechanisms to manipulate tickets in different and sometimes useful ways. Such as ticket currency, ticket transfer, and ticket inflation.
