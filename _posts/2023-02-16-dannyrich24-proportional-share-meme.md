@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Disregard others
+author: danny
+image: game_the_scheduler.png
+chapter: 9
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+When one job games the scheduler, the other jobs get the short end of the stick (see page 6).
