@@ -1,6 +1,6 @@
 ---
 title:  Low Level Processes Runnning
-author: Addison Adcock
+author: Colt
 image: Golden_Ticket.jpg
 chapter: 9
 ---
