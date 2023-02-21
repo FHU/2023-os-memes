@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  OS without Address Spaces
+author: danny
+image: os-addressspace.gif
+chapter: 13
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Without address spaces, the operating system would not have a way to view physical memory in a virtual space.
