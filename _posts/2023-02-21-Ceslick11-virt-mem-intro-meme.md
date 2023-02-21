@@ -1,7 +1,8 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: Invisable Memory
+author: Caleb
+image: futurama.jpg
+chapter: 13
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+One major goal of a virtual memory (VM) system is transparency.
+The OS should implement virtual memory in a way that is invisible to the running program. Thus, the program shouldn’t be aware of the fact that memory is virtualized.
