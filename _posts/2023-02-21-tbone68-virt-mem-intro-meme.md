@@ -1,6 +1,6 @@
 ---
 title: virtual memory  
-author: Grizz
+author: Griz
 image: vm_goals.jpg
 chapter: 13
 ---
