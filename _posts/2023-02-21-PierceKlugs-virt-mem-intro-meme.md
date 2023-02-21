@@ -4,4 +4,4 @@ author: cameron
 image: os-addressspace.gif
 chapter: 13
 ---
-Without address spaces, the operating system would not have a way to view physical memory in a virtual space.
+Without address spaces, processes would be in absolute chaos because they would have access to memory outside of allocated address spaces.
