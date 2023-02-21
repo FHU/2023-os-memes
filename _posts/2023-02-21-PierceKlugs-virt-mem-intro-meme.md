@@ -1,6 +1,6 @@
 ---
 title:  OS without Address Spaces
-author: danny
+author: cameron
 image: os-addressspace.gif
 chapter: 13
 ---
