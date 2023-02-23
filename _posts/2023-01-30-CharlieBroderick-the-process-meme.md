@@ -1,7 +1,7 @@
 ---
-title:  chapter 8 meme
+title:  chapter 13 meme
 author: charlie
-image: preciousmeme.jpg
-chapter: 8
+image: 7c7xm0.png
+chapter: 13
 ---
-When there are to many long interactive jobs running they cannot get enough cpu time and will "starve"
+The early stages of machines were slow and had to run one program on physical memory at a time. As computers evolved and became better multi sharing was introduced and made the process much faster and easier
