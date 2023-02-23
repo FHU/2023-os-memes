@@ -4,4 +4,4 @@ author: kadenbking
 image: illegal-access.jpeg
 chapter: 15
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Illegal access exception refers to when a user process tries to access memory with an address that is "out of bounds", the CPU stops executing the user process and raises an "out-of-bounds" exception handler. (pg. 9)
