@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  SpiderMan Meme
+author: Tristan
+image: SpiderMan_Meme.png
+chapter: 15
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Base and bounds is the first incarnation of hardware-based address translation. It allows us to place the address space anywhere would like in the physical memory.
