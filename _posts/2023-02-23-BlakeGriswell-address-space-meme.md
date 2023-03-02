@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  unahppy cpu
+author: shelly
+image: cpu_exception.jpg
+chapter: 15
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+In user mode you are unable to change the base and bounds registers unless you are in kernal mode. The CPU will raise an exception and most likey terminate the process.
