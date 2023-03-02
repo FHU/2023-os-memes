@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: pfn meme
+author: Addison
+image: PFN_Meme.png
+chapter: 18
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+They are basically the same thing, they just have different names. 
