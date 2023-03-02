@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: Segmentation Violation
+author: nate
+image: OSCh16Meme.jpg
+chapter: 16
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+When a segmentation violation happens, the program tries to access an illegal address and then the OS terminates the program.
