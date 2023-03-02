@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Invalid
+author: kel
+image: OSCh18Meme.jpg
+chapter: 18
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The page table entry contains a valid bit. The space between the code and stack is marked invalid, so the process is not allowed to access it.
