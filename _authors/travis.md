@@ -1,6 +1,6 @@
 ---
 short_name: travis
-name: travis raymer
+name: Travis Raymer
 position: student
 ---
 Meme rivers ever flowing.
