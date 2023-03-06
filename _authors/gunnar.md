@@ -1,5 +1,5 @@
 ---
-short name: Gunnar
+short_name: Gunnar
 name: Bryce Greene
 position: Student
 ---
