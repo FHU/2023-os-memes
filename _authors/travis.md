@@ -1,5 +1,5 @@
 ---
-short_name: Trav
+short_name: travis
 name: Travis Raymer
 position: Students
 ---
