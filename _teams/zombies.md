@@ -1,3 +1,7 @@
 ---
 name: Zombies
-members: Tristan, Zac, sean
+members: 
+  - Tristan
+  - Zac
+  - sean
+---

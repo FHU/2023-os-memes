@@ -1,4 +1,7 @@
 ---
 name: The Schedulers
-members: Shelly, Griz, tbone
+members: 
+  - Shelly
+  - Griz
+  - tbone
 ---

@@ -1,4 +1,7 @@
 ---
 name: The Heap
-members: MC, savannah, Alli
+members: 
+  - MC
+  - savannah
+  - Alli
 ---

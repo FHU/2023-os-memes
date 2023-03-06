@@ -1,4 +1,7 @@
 ---
 name: Team The
-members: Nate, lt, kel
+members: 
+  - Nate
+  - lt
+  - kel
 ---

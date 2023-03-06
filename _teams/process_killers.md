@@ -1,4 +1,7 @@
 ---
 name: Process Killers
-members: addison, colt, Sam
+members: 
+  - addison
+  - Colt
+  - Sam
 ---

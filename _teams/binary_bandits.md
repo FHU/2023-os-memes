@@ -1,4 +1,7 @@
 ---
 name: Binary Bandits
-members: Gunnar, camerondpierce, danny
+members: 
+  - Gunnar
+  - camerondpierce
+  - danny
 ---

@@ -1,4 +1,7 @@
 ---
 name: IdontknoW
-members: Jaydon, kadenbking, lisa
+members: 
+  - Jaydon
+  - kadenbking
+  - lisa
 ---
