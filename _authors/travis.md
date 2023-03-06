@@ -1,6 +1,6 @@
 ---
 short_name: travis
-name: Travis Raymer
-position: Students
+name: travis raymer
+position: student
 ---
-Local Code Monkey
+Meme rivers ever flowing.
