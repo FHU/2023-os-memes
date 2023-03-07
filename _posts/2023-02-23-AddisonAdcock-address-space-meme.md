@@ -4,4 +4,5 @@ author: sam
 image: privileged_mode_meme.jpg
 chapter: 15
 ---
-The OS should run in privileged mode where it has access to the entire machine. Applications should run in user mode, where they should be limited in what they can do. Privileged mode is needed to prevent user-mode processes from executing privileged operations. 
+The hardware should provide special instructions to modify the base and bounds registers, allowing the OS to change them when different processes run. These instructions are privileged; only in kernel (or privileged) mode can the registers be modified.
+Privileged mode is needed to prevent user-mode processes from executing privileged operations. 
