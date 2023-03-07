@@ -1,6 +1,6 @@
 ---
 title:  The Background Thread
-author: savanah
+author: savannah
 image: background-thread.png
 chapter: 21
 ---
