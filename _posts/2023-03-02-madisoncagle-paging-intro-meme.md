@@ -1,6 +1,6 @@
 ---
 title: Hard Pill to Swallow
-author: md
+author: mc
 image: Paging.png
 chapter: 18
 ---
