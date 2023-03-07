@@ -1,6 +1,6 @@
 ---
 title: Advantages of TLB
-author:md
+author: md
 image: Advantages.png
 chapter: 19
 ---
