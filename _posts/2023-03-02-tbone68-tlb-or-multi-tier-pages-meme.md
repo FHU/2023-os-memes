@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: TLB and bits 
+author: Griz
+image: different_bits.jpg
+chapter: 19
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Overall, the number of bits in a TLB is usually limited by the hardware constraints and the specific needs of the system. The TLB size, bit format, and organization can all impact the performance and efficiency of memory management operations.
