@@ -1,6 +1,6 @@
 ---
 title: Out-of-Memory Killer
-author: nate
+author: Nate
 image: OSCh22Meme.jpg
 chapter: 22
 ---
