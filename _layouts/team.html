@@ -20,6 +20,8 @@ layout: default
     {% for post in filtered_posts | sort: "chapter" %}
     <div class="box"><a href="{{ post.url | relative_url }}">
             <img src="{{ site.thumbsurl | relative_url }}{{ post.image }} " alt="{{ post.name }} meme" class="img-gallery" />
+            {{ post.name }}
+            chapter {{ post.chapter }}
         </a></div>
     {% endfor %}
     </div>
