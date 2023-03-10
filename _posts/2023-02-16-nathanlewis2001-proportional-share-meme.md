@@ -1,6 +1,6 @@
 ---
 title: Nice Values
-author: nate
+author: Nate
 image: OSCh9_Meme1.jpeg
 chapter: 09
 ---
