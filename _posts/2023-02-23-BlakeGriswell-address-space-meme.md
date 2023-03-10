@@ -1,6 +1,6 @@
 ---
 title:  unahppy cpu
-author: shelly
+author: tbone
 image: cpu_exception.jpg
 chapter: 15
 ---
