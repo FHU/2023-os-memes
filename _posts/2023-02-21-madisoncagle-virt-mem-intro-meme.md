@@ -1,6 +1,6 @@
 ---
 title: Transparent Window
-author: mc
+author: MC
 image: Transparency.png 
 chapter: 13
 ---
