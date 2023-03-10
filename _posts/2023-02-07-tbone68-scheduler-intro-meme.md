@@ -1,6 +1,6 @@
 ---
 title:  Turnaround Time/Response Time
-author: tbone.md
+author: tbone
 image: turn_response_pill.jpg
 chapter: 7
 ---
