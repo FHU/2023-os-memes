@@ -1,6 +1,6 @@
 ---
 title:  Panik
-author: mc
+author: MC
 image: Panik.png
 chapter: 07
 ---
