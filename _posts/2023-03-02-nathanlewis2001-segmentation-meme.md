@@ -1,6 +1,6 @@
 ---
 title: Segmentation Violation
-author: nate
+author: Nate
 image: OSCh16Meme.jpg
 chapter: 16
 ---
