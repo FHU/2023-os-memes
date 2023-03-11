@@ -1,7 +1,7 @@
 ---
-title:  
-author: 
-image: 
-chapter: 
+title:  Is this The Process?
+author: cameron
+image: cpTheProcess.jpg
+chapter: 4
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+A process is nothing more than your running program in an abstract view.
