@@ -8,7 +8,7 @@ layout: default
     {% for member in page.members %}
     {% assign author = site.authors | where: "short_name",member | first %}
     {% assign member_posts = site.posts | where: "author", member %}
-    {% assign filtered_posts = filtered_posts | concat: member_posts | sort: "chapter" %}
+    {% assign filtered_posts = filtered_posts | concat: member_posts %}
     <li><a href="{{ author.url | relative_url }}">{{ author.name }}</a></li>
     {% endfor %}
 </ul>
