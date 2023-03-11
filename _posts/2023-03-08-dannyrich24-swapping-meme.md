@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Swap Space Change My Mind
+author: cameron
+image: cpSwapspace.jpg
+chapter: 21
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Swap Space is just space on disk that the OS can "pull from" whenever things get a little messy in memory regarding space.
