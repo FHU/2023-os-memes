@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Buzz Explains Paging
+author: cameron
+image: cpPaging.jpg
+chapter: 18
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Paging is fixed sized memory spaces that can be taken and allocated to a process to prevent taking too much memory on a machine.
