@@ -1,5 +1,5 @@
 ---
-title: 
+title: Waiting...
 author: kel
 image: OSCH28.jpg
 chapter: 28
