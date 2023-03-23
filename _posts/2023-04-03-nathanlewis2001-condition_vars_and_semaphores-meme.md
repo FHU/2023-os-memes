@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: Producers
+author: Nate
+image: OSCh30.jpg
+chapter: 30
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+A producer thread waits for the condition variable to signal empty so it can execute and place a value in to make it full.
