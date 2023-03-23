@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: Critical_Section
+author: lt
+image: OSCh26.jpg
+chapter: 26
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Only one thread should run the critical section at a time. Otherwise it will mess it up. 
