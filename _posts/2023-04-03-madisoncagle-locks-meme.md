@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Locked Out
+author: mc
+image: Locked.png
+chapter: 29
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+In chapter 29, It is explained that in some cases it is likely ok not to hold the lock, but you should avoid thinking that way and just hold the lock when calling the signal.
