@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: 
+author: kel
+image: OSCH28.jpg
+chapter: 28
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Threads will spin when waiting for a lock until its turn comes around.
