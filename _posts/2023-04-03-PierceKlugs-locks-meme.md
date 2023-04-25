@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Locks with Phil Swift
+author: cameron
+image: cp-locks.png
+chapter: 28
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+A good lock balances mutual exculsivity, fairness, and performance to effectively handle interrupts and a series of programs that take advantage of concurrency.
