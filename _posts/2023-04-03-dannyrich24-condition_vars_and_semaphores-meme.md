@@ -1,7 +1,7 @@
 ---
-title:  
+title:  Binary Semaphore is a lock
 author: danny
-image: 
-chapter: 
+image: semaphore.png
+chapter: 31
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+According to page 3 of chapter 31, a binary semaphore is used as a lock.
