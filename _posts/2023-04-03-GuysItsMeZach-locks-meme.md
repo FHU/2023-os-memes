@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Chapter 28 Meme
+author: Zac
+image: Locks_meme_.jpeg
+chapter: 28
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+This chapter desribes the attributes of a good lock.  The consdierations that need to be taken when creating a good lock is mutual-exclusion, fairness, and performance.
