@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: Wake Up
+author: gavin
+image: wake.jpg
+chapter: 31
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Threads will rest on this condition variable when the state of execution is not what is desired until the required conditions are met then is can continue.
