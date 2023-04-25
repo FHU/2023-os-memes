@@ -1,6 +1,6 @@
 ---
 title:  Locks with Phil Swift
-author: cameron
+author: camerondpierce
 image: cp-locks.png
 chapter: 28
 ---
