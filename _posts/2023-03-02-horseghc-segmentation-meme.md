@@ -4,4 +4,4 @@ author: gavin
 image: dangerous.jpg
 chapter: 16
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+This meme highlights how protection bits are used when code sharing to ensure that it is dont safely and properly.
