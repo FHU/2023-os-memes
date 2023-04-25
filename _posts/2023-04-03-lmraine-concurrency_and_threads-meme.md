@@ -4,4 +4,4 @@ author: kadenbking
 image: sequential-processes.jpeg
 chapter: 26
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+While concurrency allows for overlap and arbitrary execution with the same outcome, sequential processes on the other hand have to execute step-by-step. (p.g. 3)
