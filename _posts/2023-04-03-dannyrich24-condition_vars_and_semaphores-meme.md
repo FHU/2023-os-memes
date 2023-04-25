@@ -1,6 +1,6 @@
 ---
 title:  
-author:
+author: danny
 image: 
 chapter: 
 ---
