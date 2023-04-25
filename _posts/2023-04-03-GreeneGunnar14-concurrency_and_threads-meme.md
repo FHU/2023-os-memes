@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title: Gru Forgets The Atomicity
+author: Gunnar
+image: Grutomicity.jpg
+chapter: 26
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The joke is that gru was trying to implement multithreading without considering atomicity. Because of this, Gru's code did not execute in the order he expected it to, meaning step 3 occurred before step 2.
