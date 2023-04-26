@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  skeletor fun facts
+author: Sam
+image: skeletorfunfacts.jpg
+chapter: 30
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+As stated in the fun fact by skeletor, it can be simplest and best to hold the lock while signaling while using conidition variables. This is not always the case, but can be highly ocnsidered.
