@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Race Conditions
+author: Colt
+image: Dash-Meme.gif
+chapter: 28
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Race conditions can occur when multiple threads or processes attempt to access a shared resource simultaneously without the proper synchronization.
