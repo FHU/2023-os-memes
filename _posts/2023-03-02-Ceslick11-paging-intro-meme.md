@@ -1,7 +1,9 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:pagingmeme
+author:Caleb.md
+image:paging.jpg
+chapter:18
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+Paging is a much more reliable method of dealing with space-management. In particular, when dividing a space into different-size chunks, the
+space itself can become fragmented, and thus allocation becomes more
+challenging over time.
