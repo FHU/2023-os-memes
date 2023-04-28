@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:cpuscheduling
+author:Caleb.md
+image:scheduling.jpg
+chapter:7
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+there are two different approaches to cpu scheduling. Both are bad where the other is good, thus depending on the desired goal and results a compromise has to be made over the other in order to achieve the same task.
