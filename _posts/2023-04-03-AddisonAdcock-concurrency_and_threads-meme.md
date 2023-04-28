@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Running Atomically
+author: Addison
+image: AtomicallyMeme.jpg
+chapter: 26
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+This chapter discusses how you could run multiple actions seperatly or combine them to run atomically which is an all or nothing technique. 
