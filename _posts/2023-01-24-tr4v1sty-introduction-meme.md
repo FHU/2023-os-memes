@@ -1,6 +1,6 @@
 ---
 title:  OS chad
-author: Trav
+author: travis
 image: ch2memechad.jpg
 chapter: 2
 ---
