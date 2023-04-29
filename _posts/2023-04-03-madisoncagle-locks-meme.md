@@ -1,6 +1,6 @@
 ---
 title:  Locked Out
-author: mc
+author: MC
 image: Locked.png
 chapter: 29
 ---
