@@ -1,7 +1,8 @@
 ---
 title:  chapter 8 meme
 author: charlie
-image: preciousmeme.jpg
+image: zombie meme.jpg
 chapter: 8
 ---
-When there are to many long interactive jobs running they cannot get enough cpu time and will "starve"
+starvation: if there are “too many” interactive jobs in the system, they will combine to consume all CPU time,
+and thus long-running jobs will never receive any CPU time
