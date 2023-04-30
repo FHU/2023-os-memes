@@ -1,7 +1,10 @@
 ---
-title:  chapter 13 meme
+title:  chapter 4
 author: charlie
-image: 7c7xm0.png
-chapter: 13
+image: 7k0itm.jpg
+chapter: 4
 ---
-The early stages of machines were slow and had to run one program on physical memory at a time. As computers evolved and became better multi sharing was introduced and made the process much faster and easier
+The OS creates this illusion by virtualizing the CPU. By running one
+process, then stopping it and running another, and so forth, the OS can
+promote the illusion that many virtual CPUs exist when in fact there is
+only one physical CPU
