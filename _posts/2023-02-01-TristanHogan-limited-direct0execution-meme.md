@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Ron Swanson
+author: Tristan
+image: Ron.jpg
+chapter: 6
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The author defines the Kernel mode as being a bit of code that runs and can do whatever it wants. Just like Ron Swanson with his permit saying he can do whatever he wants.
