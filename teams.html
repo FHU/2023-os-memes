@@ -1,0 +1,13 @@
+---
+layout: default
+title: Teams
+---
+<h1>Meme Teams</h1>
+
+<ul>
+    {% for team in site.teams %}
+    <li>
+        <h2><a href="{{ team.url | relative_url }}">{{ team.name }}</a></h2>
+    </li>
+    {% endfor %}
+</ul>

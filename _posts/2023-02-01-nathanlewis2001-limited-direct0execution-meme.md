@@ -1,6 +1,6 @@
 ---
 title:  Power (Kernel) Mode
-author: nate
+author: Nate
 image: OSCh6Meme1.jpg
 chapter: 6
 ---

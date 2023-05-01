@@ -1,6 +1,6 @@
 ---
 title:  The OS
-author: tbone.md
+author: tbone
 image: OS_button.jpg
 chapter: 6
 ---

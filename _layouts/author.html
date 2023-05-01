@@ -11,6 +11,9 @@ layout: default
     {% for post in filtered_posts %}
     <div class="box"><a href="{{ post.url | relative_url }}">
             <img src="{{ site.thumbsurl | relative_url }}{{ post.image }} " alt="{{ post.name }} meme" class="img-gallery" />
-        </a></div>
+        </a>
+            {{ post.title }}
+            chapter {{ post.chapter }}
+        </div>
     {% endfor %}
 </div>
