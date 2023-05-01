@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  chapter 19 meme
+author: zac
+image: tablebroken.jpg
+chapter: 19
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+This chapter discusses hit rate and that the desired hit rate is close to 100%.  If the hit rate is 0% something is very broken.  
