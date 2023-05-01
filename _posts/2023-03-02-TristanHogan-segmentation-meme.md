@@ -1,7 +1,7 @@
 ---
-title:  
-author:
-image: 
-chapter: 
+title:  Inosuke
+author: Tristan
+image: Inosuke.jpg
+chapter: 16
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+The meme represents the flexibility of the Fine-grained segmentation which Coarse-grained segmentaion is unable to do.
