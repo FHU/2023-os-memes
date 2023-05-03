@@ -1,6 +1,6 @@
 ---
 title:  TLB I am speed
-author: cameron
+author: camerondpierce
 image: cpTLB.jpg
 chapter: 19
 ---
