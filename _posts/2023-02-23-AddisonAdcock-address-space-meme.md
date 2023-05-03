@@ -1,6 +1,6 @@
 ---
 title:  Privileged Mode
-author: sam
+author: Sam
 image: privileged_mode_meme.jpg
 chapter: 15
 ---
