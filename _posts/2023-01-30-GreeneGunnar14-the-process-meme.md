@@ -1,6 +1,6 @@
 ---
 title:  Is this The Process?
-author: cameron
+author: camerondpierce
 image: cpTheProcess.jpg
 chapter: 4
 ---
