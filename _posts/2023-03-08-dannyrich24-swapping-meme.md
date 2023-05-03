@@ -1,6 +1,6 @@
 ---
 title:  Swap Space Change My Mind
-author: cameron
+author: camerondpierce
 image: cpSwapspace.jpg
 chapter: 21
 ---
