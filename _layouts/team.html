@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+
+<h2>Members</h2>
+<ul>
+    {% for member in page.members %}
+    {% assign author = site.authors | where: "short_name",member | first %}
+    {% assign member_posts = site.posts | where: "author", member %}
+    {% assign filtered_posts = filtered_posts | concat: member_posts %}
+    <li><a href="{{ author.url | relative_url }}">{{ author.name }}</a></li>
+    {% endfor %}
+</ul>
+
+{{ content }}
+
+<h2>Posts</h2>
+<div class="image-gallery">
+    {% for post in filtered_posts %}
+    <div class="box"><a href="{{ post.url | relative_url }}">
+            <img src="{{ site.thumbsurl | relative_url }}{{ post.image }} " alt="{{ post.name }} meme" class="img-gallery" />
+        </a>
+            {{ post.title }}
+            chapter {{ post.chapter }}
+        </div>
+    {% endfor %}
+    </div>

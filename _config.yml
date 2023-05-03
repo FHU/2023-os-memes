@@ -38,6 +38,8 @@ collections:
     output: true
   sections:
     output: true
+  teams:
+    output: true
   chapters:
 
 
@@ -52,6 +54,11 @@ defaults:
       type: "sections"
     values:
       layout: "section"
+  - scope:
+      path: ""
+      type: "teams"
+    values:
+      layout: "team"
   - scope:
       path: ""
       type: "posts"
