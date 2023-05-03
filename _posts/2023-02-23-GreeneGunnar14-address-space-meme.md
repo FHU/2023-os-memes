@@ -1,6 +1,6 @@
 ---
 title:  Address Space
-author: cameron
+author: camerondpierce
 image: exception_handler_os.jpg
 chapter: 15
 ---
