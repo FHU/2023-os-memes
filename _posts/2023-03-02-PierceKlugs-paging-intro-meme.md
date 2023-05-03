@@ -1,6 +1,6 @@
 ---
 title:  Buzz Explains Paging
-author: cameron
+author: camerondpierce
 image: cpPaging.jpg
 chapter: 18
 ---
