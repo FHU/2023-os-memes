@@ -1,7 +1,7 @@
 ---
 title:  Be Like Bill, Segmentation
-author: cameron
+author: camerondpierce
 image: cpBillSegmentation.jpg
 chapter: 16
 ---
-Update the above data, include an image of your original meme, and replace this text with your meme explanation.
+You have the idea that the stack, the heap, and the code are all seperate sections. This is what is held in parts of a program.
