@@ -1,6 +1,6 @@
 ---
 title:  Condition Variables
-author: Jaydon Dulgar
+author: Jaydon
 image: thread_on_condition.jpg
 chapter: 30
 ---
