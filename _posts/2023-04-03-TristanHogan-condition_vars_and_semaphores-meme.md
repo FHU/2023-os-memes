@@ -1,6 +1,6 @@
 ---
 title:  Mr._Bean_Meme
-author: Sean 
+author: Tristan
 image: 7k26wm.jpg
 chapter: Chapters 30 and 31
 ---

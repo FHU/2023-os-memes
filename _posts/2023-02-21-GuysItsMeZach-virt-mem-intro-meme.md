@@ -1,6 +1,6 @@
 ---
 title:  Trash Compactor Meme
-author: Sean 
+author: Zac
 image: Trash_Compactor_Meme.jpg
 chapter: 13
 ---
