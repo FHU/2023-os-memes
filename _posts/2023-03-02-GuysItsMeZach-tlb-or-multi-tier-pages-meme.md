@@ -1,6 +1,6 @@
 ---
 title:  chapter 19 meme
-author: zac
+author: Zac
 image: tablebroken.jpg
 chapter: 19
 ---

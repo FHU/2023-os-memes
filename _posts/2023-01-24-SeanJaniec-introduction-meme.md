@@ -1,6 +1,6 @@
 ---
 title:  Granny meme
-author: Sean.md
+author: Sean
 image: Granny_meme.jpg
 chapter: 2
 ---
