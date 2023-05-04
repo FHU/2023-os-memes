@@ -1,6 +1,6 @@
 ---
 title:  Dr. Facilier Meme
-author: Tristan
+author: Sean
 image: Dr_Facilier_Meme.png
 chapter: 8
 ---

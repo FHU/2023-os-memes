@@ -1,6 +1,6 @@
 ---
 title:  Einstein
-author: zac
+author: Zac
 image: schedular-intro-meme.jpg
 chapter: 7
 ---

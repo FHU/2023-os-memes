@@ -1,6 +1,6 @@
 ---
 title:  Race_Condition_Meme
-author:Sean Janiec
+author: Sean
 image: 7isfns.jpg
 chapter: 26
 ---

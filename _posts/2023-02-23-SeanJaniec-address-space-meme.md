@@ -1,6 +1,6 @@
 ---
 title:  SpiderMan Meme
-author: Tristan
+author: Sean
 image: SpiderMan_Meme.png
 chapter: 15
 ---
