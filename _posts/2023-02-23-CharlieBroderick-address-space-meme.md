@@ -1,5 +1,5 @@
 ---
-title:  chapter 13
+title: chapter 13 meme
 author: charlie
 image: 7c7xm0.png
 chapter: 13
